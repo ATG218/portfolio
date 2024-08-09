@@ -1,0 +1,33 @@
+__  __  __
+\ \ \ \ \/
+ \ \/\ \
+  \/  \/
+
+The humans.txt file explains the team, technology,
+and graphic assets behind this site humanstxt.org.
+
+_______________________________________________________________________________
+
+Creator
+
+Aleksander Garbuz
+
+Designed by | Hamish Williams
+github.com/hamishmw
+
+_______________________________________________________________________________
+
+TECHNOLOGY 
+
+React
+Remix
+Three.js
+Framer Motion
+
+_______________________________________________________________________________
+
+FONTS 
+
+Gotham
+IPA Gothic Regular
+Hiragino Kaku Gothic W8
